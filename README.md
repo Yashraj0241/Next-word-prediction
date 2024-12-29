@@ -44,7 +44,7 @@ The **Next Word Prediction** project is a Natural Language Processing (NLP) appl
   - Keras
   - NumPy
   - Tokenizer (from Keras Preprocessing)
-  - Matplotlib (for visualization, optional)
+  
 
 ---
 
@@ -67,8 +67,7 @@ next-word-prediction/
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/next-word-prediction.git
-   cd next-word-prediction
+   https://github.com/Yashraj0241/Next-word-prediction
    ```
 
 2. **Create a Virtual Environment**:
@@ -126,17 +125,8 @@ model.compile(loss='categorical_crossentropy', optimizer='adam', metrics=['accur
 ---
 
 ## **Results**
-- Achieved [Insert Accuracy]% accuracy on the training dataset after 100 epochs.
+- Achieved 99.30 % accuracy on the training dataset after 100 epochs.
 - Predictions are made with reasonable accuracy based on the input sequence.
 
 ---
 
-## **Future Improvements**
-- Experiment with different NLP models (e.g., Transformer-based architectures).
-- Use a larger and more diverse dataset for better generalization.
-- Integrate the model with a Flask/Django web application for deployment.
-
----
-
-## **License**
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
