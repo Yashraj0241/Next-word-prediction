@@ -54,7 +54,7 @@ next-word-prediction/
 │
 ├── README.md               # Project documentation
 ├── next_word_prediction.ipynb # Jupyter Notebook with complete implementation
-├── dataset.txt             # Text data used for training (if applicable)
+├── dataset.txt             # Text data used for training 
 ├── requirements.txt        # Required libraries and dependencies
 └── models/
     ├── next_word_model.h5  # Saved trained model
